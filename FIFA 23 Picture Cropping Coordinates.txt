@@ -1,0 +1,91 @@
+For stats extraction
+
+Home team stats
+
+top left
+x = 1250
+y = 500
+
+
+bottom right
+x = 1450
+y = 1950
+
+
+
+Away team stats
+
+top left
+x = 2400
+y = 500
+
+
+bottom right
+x = 2600
+y = 1950
+
+
+
+Stat Names
+
+top left
+x = 1650
+y = 500
+
+
+bottom right
+x = 2200
+y = 1950
+
+
+
+Home team name
+
+top left
+x = 1315
+y = 115
+
+
+bottom right
+x = 1345
+y = 200
+
+
+
+Away team name
+
+top left
+x = 2295
+y = 115
+
+
+bottom right
+x = 2450
+y = 200
+
+
+
+
+home team score
+
+top left
+x = 1765
+y = 100
+
+
+bottom right
+x = 1865
+y = 215
+
+
+
+away team score
+
+top left
+x = 1985
+y = 100
+
+
+bottom right
+x = 2065
+y = 215
